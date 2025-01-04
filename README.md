@@ -16,5 +16,4 @@ I am a passionate software developer with a strong focus on building innovative 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amank-04&limit=5&theme=ambient_gradient&hide_border=true&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
