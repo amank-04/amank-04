@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am a passionate software developer with a strong focus on building innovative and efficient solutions. I believe in the power of technology to solve real-world problems and constantly seek opportunities to expand my knowledge and skills. Below are some key points about me:<br><br>🚀 Passionate about coding: Always learning and experimenting with new technologies.<br>💻 Experienced in multiple languages: Proficient in Python, JavaScript, Java, and C++.<br>🌐 Full-Stack & Web Development: Skilled in building both front-end (React, Angular) and back-end (Node.js, Django) applications, with a focus on responsive and user-friendly web development.<br>🔧 Problem solver: Focused on writing clean, efficient code to solve complex problems.<br>🧠 Continuous learner: Always diving into new frameworks, tools, and methodologies to stay ahead of the curve.<br>🧑‍💻 Collaborative Team Player: Enjoy working in dynamic teams, and actively contribute to open-source projects.<br>🌱 Open to new challenges: Always looking for opportunities to grow professionally and personally.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-o1) 
 
